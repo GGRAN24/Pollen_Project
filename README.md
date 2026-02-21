@@ -1,4 +1,4 @@
-# Pollen_Project
+# Pollen Project
 Nashville TN pollen counts and air quality visualized in PowerBI
 
 ## Link To Report:
